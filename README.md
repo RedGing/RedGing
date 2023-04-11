@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![femorell's 42 stats](https://badge42.vercel.app/api/v2/clgce9jlo001109jqbkvx5od9/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 <!--
 **RedGing/RedGing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
